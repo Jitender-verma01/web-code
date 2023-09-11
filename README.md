@@ -1,4 +1,4 @@
 # web-code
 This is my first git repository.
 <br>
-Author - Jitendra kumar Verma
+Author - Jitendra (kumar verma)
